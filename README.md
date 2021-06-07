@@ -1,2 +1,2 @@
-# design_resources
+# Design_resources
 Miscellaneous design resources
